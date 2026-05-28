@@ -203,7 +203,7 @@ Data Analytics Project Portfolio
 
 📧 shreyathaware9@gmail.com
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shreya-thaware/) 
-🌐 [Portfolio ](https://www.datascienceportfol.io/shreyathaware9)
+🌐 [Portfolio ](https://shreya-thaware-rhjv5yo.gamma.site/)
 
 ### Below is the actual drive link of this project where you can access all the files and Dashboards I created.
 #### Click on the link below, if not work then paste it into your favourite browser then good to go!
