@@ -8,6 +8,7 @@ The project follows a complete data analytics workflow including data cleaning, 
 
 Tools used:
 
+* Excel (Data Received in CSV)
 * Python (Data Cleaning & Preprocessing)
 * SQL (Data Analysis)
 * Power BI (Dashboard & Visualization)
